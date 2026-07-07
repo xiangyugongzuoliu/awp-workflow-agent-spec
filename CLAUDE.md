@@ -3,6 +3,29 @@
 > AI Agent 和维护者的项目总入口。
 > 本文件是本仓库的项目上下文事实源。`AGENTS.md` 是另一个客户端入口，指回本文件，避免维护两套说明。
 
+## 子目录索引
+
+| 目录 | 内容 | CLAUDE.md |
+|------|------|:---------:|
+| [docs/](docs/) | 目录索引 | — |
+| [evals/](evals/) | 目录索引 | — |
+| [examples/](examples/) | 目录索引 | — |
+| [schemas/](schemas/) | 目录索引 | — |
+| [scripts/](scripts/) | 目录索引 | — |
+| [templates/](templates/) | 目录索引 | — |
+
+
+## 文件索引
+
+| 文件 | 说明 |
+|------|------|
+| [AGENTS.md](AGENTS.md) | 直接文件 |
+| [CHANGELOG.md](CHANGELOG.md) | 直接文件 |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | 直接文件 |
+| [LICENSE](LICENSE) | 直接文件 |
+| [README.md](README.md) | 直接文件 |
+
+
 ## 项目目的
 
 本仓库定义一套面向公开发布的「翔宇工作流 Workflow Agent Skill 规范」。

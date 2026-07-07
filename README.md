@@ -165,7 +165,7 @@ workflow-agent-skill-spec/
 
 <p>
   <a href="https://flowus.cn/xiangyugongzuoliu/share/d392dcad-b537-44ee-a3e2-56ff5af02bce">
-    <img src="https://img.shields.io/badge/AI编程实操课-系统学习-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white" alt="AI 编程实操课" />
+    <img src="https://img.shields.io/badge/AI编程实操课-系统学习-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white" alt="AI编程实操课" />
   </a>
   <a href="https://xiangyugongzuoliu.com/claude-code-skill-workflow-guide/">
     <img src="https://img.shields.io/badge/官网教程-开源规范版-2C3E50?style=for-the-badge&logo=ghost&logoColor=white" alt="官网教程" />
@@ -178,7 +178,7 @@ workflow-agent-skill-spec/
   </a>
 </p>
 
-- 🎓 **AI 编程实操课**：https://flowus.cn/xiangyugongzuoliu/share/d392dcad-b537-44ee-a3e2-56ff5af02bce
+- 🎓 **AI编程实操课**：https://flowus.cn/xiangyugongzuoliu/share/d392dcad-b537-44ee-a3e2-56ff5af02bce
 - 📘 **配套官网教程**：https://xiangyugongzuoliu.com/claude-code-skill-workflow-guide/
 - 🌐 **翔宇工作流官网**：https://xiangyugongzuoliu.com
 - ▶️ **YouTube「翔宇工作流」**：https://www.youtube.com/@xiangyugongzuoliu
