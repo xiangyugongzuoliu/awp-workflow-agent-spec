@@ -211,7 +211,7 @@ workflow-agent-skill-spec/
 | [xy-research-deep-template](https://github.com/xiangyugongzuoliu/xy-research-deep-template) | Zeabur 部署模板 · 深度研究引擎 |
 | [xy-wechat-markdown-template](https://github.com/xiangyugongzuoliu/xy-wechat-markdown-template) | Zeabur 部署模板 · 微信 Markdown 排版 |
 | [xy-nocode-toolkit-template](https://github.com/xiangyugongzuoliu/xy-nocode-toolkit-template) | Zeabur 部署模板 · NCA Toolkit |
-| ✅ [awp-workflow-agent-spec](https://github.com/xiangyugongzuoliu/awp-workflow-agent-spec) | Claude Code Skill 工程规范 |
+| **[awp-workflow-agent-spec](https://github.com/xiangyugongzuoliu/awp-workflow-agent-spec)** | **Claude Code Skill 工程规范** |
 
 🌐 [xiangyugongzuoliu.com](https://xiangyugongzuoliu.com) · 👤 [@xiangyugongzuoliu](https://github.com/xiangyugongzuoliu)
 
